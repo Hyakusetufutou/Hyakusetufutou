@@ -70,9 +70,9 @@ Flutterを使用して開発したIRいしかわ鉄道運行情報アプリで�
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyakusetufutou&layout=compact&hide_border=true)
 
 ## Links
-[Qiita](https://qiita.com/snow_swallow)
-[Zenn](https://zenn.dev/snow_swallow)
-[個人ブログ](https://blog.hatena.ne.jp/snow_swallow/snow-swallow.hatenablog.com/)
+[Qiita](https://qiita.com/snow_swallow)  
+[Zenn](https://zenn.dev/snow_swallow)  
+[個人ブログ](https://blog.hatena.ne.jp/snow_swallow/snow-swallow.hatenablog.com/)  
 
 ---
 
