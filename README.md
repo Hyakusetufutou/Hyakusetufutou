@@ -24,7 +24,7 @@ SwiftUIを使用して開発したiOS向けの家計簿アプリです。
 
 **Tech Stack:** Swift / SwiftUI / Core Data / Combine
 
-[GitHub Repository](https://github.com/Hyakusetufutou/KakeiboApp)
+[GitHub Repository](https://github.com/Hyakusetufutou/KakeiboApp)  
 [App Store](https://apps.apple.com/us/app/かけログ/id6814154513)
 
 
